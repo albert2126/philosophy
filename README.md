@@ -1,0 +1,4 @@
+philosophy
+==========
+
+Philosophical notes
