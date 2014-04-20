@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #
 # Philosophy Notes documentation build configuration file, created by
-# sphinx-quickstart on Sun Apr 20 15:29:30 2014.
+# sphinx-quickstart on Sun Apr 20 18:16:58 2014.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -51,7 +51,7 @@ copyright = u'2014, Albert'
 # built documents.
 #
 # The short X.Y version.
-version = '1'
+version = '1.0'
 # The full version, including alpha/beta/rc tags.
 release = '1.0'
 
