@@ -1,0 +1,1 @@
+Search.setIndex({envversion:42,terms:{index:0,search:0,page:0},objtypes:{},objnames:{},filenames:["index"],titles:["Welcome to philosophy&#8217;s Documentation"],objects:{},titleterms:{document:0,philosophi:0,welcom:0,indic:0,tabl:0}})
