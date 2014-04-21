@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #
 # Philosophy Notes documentation build configuration file, created by
-# sphinx-quickstart on Sun Apr 20 18:16:58 2014.
+# sphinx-quickstart on Mon Apr 21 21:54:32 2014.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -67,7 +67,7 @@ release = '1.0'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
-exclude_patterns = ['_build']
+exclude_patterns = []
 
 # The reST default role (used for this markup: `text`) to use for all
 # documents.
