@@ -7,6 +7,7 @@ Welcome to Philosophy Notes
    :maxdepth: 2
    
    ru/index
+   glossary
 
 Indices and tables
 ==================
