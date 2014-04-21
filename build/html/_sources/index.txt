@@ -8,6 +8,7 @@ Welcome to Philosophy Notes
    
    ru/index
    de/index
+   fr/index
    glossary
 
 Indices and tables
