@@ -6,7 +6,7 @@
 .. toctree::
    :maxdepth: 2
 
-   berdyaev/index
    narrative
-   
+   berdyaev/index
+   dostoevsky/index   
    
